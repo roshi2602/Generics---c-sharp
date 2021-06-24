@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\bin\Debug\GenericsCSharp.exe.config
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\bin\Debug\GenericsCSharp.exe
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\bin\Debug\GenericsCSharp.pdb
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\obj\Debug\GenericsMethodsCSharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\obj\Debug\GenericsMethodsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\obj\Debug\GenericsCSharp.exe
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\obj\Debug\GenericsCSharp.pdb
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\bin\Debug\ClassLibrary1.dll
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\bin\Debug\ClassLibrary1.pdb
+C:\Users\lenovo\source\repos\GenericsCSharp\GenericsCSharp\obj\Debug\GenericsMethodsCSharp.csproj.CopyComplete
